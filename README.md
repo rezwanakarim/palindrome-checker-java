@@ -25,10 +25,10 @@ git clone https://github.com/rezwanakarim/palindrome-checker-java.git
 3. Run the program
    Open the integrated terminal in Visual Studio Code.
    Compile the Java program using the following command:
-```bash
+
 javac PalindromeChecker.java
    Run the program:
-```bash
+
 java PalindromeChecker
 
 Input a String:
