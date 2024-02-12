@@ -15,17 +15,21 @@ This Java program checks whether a given string is a palindrome or not.
 ### Getting Started
 
 1. **Clone the repository:**
-   Open the terminal in Visual Studio Code and run the following command to clone the repository to your local machine:
+   Open the terminal and run the following command to clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/rezwanakarim/palindrome-checker-java.git
 
-2. Open the file in visual Studio Code
+2. Open the file in Visual Studio Code
 
 3. Run the program
    Open the integrated terminal in Visual Studio Code.
-   Compile the Java program using the following command:  javac PalindromeChecker.java
-   Run the program : java PalindromeChecker
+   Compile the Java program using the following command:
+```bash
+javac PalindromeChecker.java
+   Run the program:
+```bash
+java PalindromeChecker
 
 Input a String:
 The program will prompt you to enter a string. Type the desired string and press Enter.
